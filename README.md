@@ -1,5 +1,3 @@
-# 🚧 This is work in progress, see [#1](https://github.com/probot/github-actions/pull/1)
-
 # `@probot/github-action` Adapter
 
 > A `probot` drop-in replacement for running Probot apps in GitHub Actions
